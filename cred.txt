@@ -1,0 +1,11 @@
+kush01@gmail.com 
+12345
+buyer
+
+kush02@gmail.com   
+12345
+seller
+
+admin@tatvasoft.com
+admin@123
+admin
